@@ -1,0 +1,14 @@
+{
+  "name": "lab2-cv-despliegue",
+  "version": "1.0.0",
+  "description": "Despliegue de CV en Render con Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Ruberth Tapara <ruberth.tapara@tecsup.edu.pe>",
+  "license": "MIT",
+  "type": "commonjs"
+}
